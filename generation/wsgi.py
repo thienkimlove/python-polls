@@ -1,5 +1,5 @@
 """
-WSGI config for python_generation project.
+WSGI config for generation project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault("DJANGO_SETTINGS_MODULE", "python_generation.settings")
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "generation.settings")
 
 application = get_wsgi_application()
