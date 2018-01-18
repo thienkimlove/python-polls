@@ -108,3 +108,6 @@ venv.bak/
 include/
 .idea/
 bin/
+/pip-selfcheck.json
+/manage.py
+/db.sqlite3

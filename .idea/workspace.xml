@@ -2,8 +2,247 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33cb986d-de4f-473d-a84a-2dc11ea5729c" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/.gitignore" />
       <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/bin/activate" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bin/activate.csh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bin/activate.fish" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bin/activate_this.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bin/django-admin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bin/django-admin.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bin/easy_install" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bin/easy_install-3.5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bin/pip" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bin/pip3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bin/pip3.5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bin/python" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bin/python-config" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bin/python3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bin/python3.5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bin/wheel" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/Python-ast.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/Python.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/abstract.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/accu.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/asdl.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/ast.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/bitset.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/bltinmodule.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/boolobject.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/bytearrayobject.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/bytes_methods.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/bytesobject.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/cellobject.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/ceval.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/classobject.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/code.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/codecs.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/compile.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/complexobject.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/datetime.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/descrobject.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/dictobject.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/dtoa.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/dynamic_annotations.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/enumobject.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/errcode.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/eval.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/fileobject.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/fileutils.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/floatobject.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/frameobject.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/funcobject.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/genobject.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/graminit.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/grammar.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/import.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/intrcheck.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/iterobject.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/listobject.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/longintrepr.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/longobject.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/marshal.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/memoryobject.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/metagrammar.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/methodobject.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/modsupport.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/moduleobject.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/namespaceobject.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/node.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/object.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/objimpl.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/odictobject.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/opcode.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/osdefs.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/parsetok.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/patchlevel.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/pgen.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/pgenheaders.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/py_curses.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/pyarena.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/pyatomic.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/pycapsule.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/pyconfig.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/pyctype.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/pydebug.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/pyerrors.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/pyexpat.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/pyfpe.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/pygetopt.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/pyhash.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/pylifecycle.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/pymacconfig.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/pymacro.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/pymath.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/pymem.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/pyport.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/pystate.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/pystrcmp.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/pystrhex.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/pystrtod.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/pythonrun.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/pythread.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/pytime.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/rangeobject.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/setobject.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/sliceobject.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/structmember.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/structseq.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/symtable.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/sysmodule.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/token.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/traceback.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/tupleobject.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/typeslots.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/ucnhash.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/unicodeobject.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/warnings.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/include/python3.5m/weakrefobject.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/manage.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pip-selfcheck.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/python_generation/settings.py" afterPath="$PROJECT_DIR$/python_generation/settings.py" />
+      <change beforePath="$PROJECT_DIR$/static/admin/css/autocomplete.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/css/base.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/css/changelists.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/css/dashboard.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/css/fonts.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/css/forms.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/css/login.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/css/responsive.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/css/responsive_rtl.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/css/rtl.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/css/vendor/select2/LICENSE-SELECT2.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/css/vendor/select2/select2.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/css/vendor/select2/select2.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/css/widgets.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/fonts/LICENSE.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/fonts/README.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/fonts/Roboto-Bold-webfont.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/fonts/Roboto-Light-webfont.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/fonts/Roboto-Regular-webfont.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/README.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/calendar-icons.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/gis/move_vertex_off.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/gis/move_vertex_on.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/icon-addlink.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/icon-alert.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/icon-calendar.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/icon-changelink.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/icon-clock.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/icon-deletelink.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/icon-no.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/icon-unknown-alt.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/icon-unknown.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/icon-yes.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/inline-delete.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/search.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/selector-icons.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/sorting-icons.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/tooltag-add.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/img/tooltag-arrowright.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/SelectBox.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/SelectFilter2.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/actions.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/actions.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/admin/DateTimeShortcuts.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/admin/RelatedObjectLookups.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/autocomplete.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/calendar.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/cancel.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/change_form.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/collapse.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/collapse.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/core.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/inlines.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/inlines.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/jquery.init.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/popup_response.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/prepopulate.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/prepopulate.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/prepopulate_init.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/timeparse.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/urlify.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/jquery/LICENSE-JQUERY.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/jquery/jquery.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/jquery/jquery.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/LICENSE-SELECT2.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/ar.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/az.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/bg.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/ca.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/cs.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/da.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/de.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/el.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/en.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/es.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/et.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/eu.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/fa.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/fi.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/fr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/gl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/he.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/hi.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/hr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/hu.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/id.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/is.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/it.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/ja.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/km.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/ko.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/lt.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/lv.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/mk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/ms.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/nb.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/nl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/pl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/pt-BR.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/pt.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/ro.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/ru.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/sk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/sr-Cyrl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/sr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/sv.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/th.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/tr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/uk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/vi.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/zh-CN.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/zh-TW.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/select2.full.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/select2/select2.full.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/xregexp/LICENSE-XREGEXP.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/xregexp/xregexp.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/xregexp/xregexp.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/polls/style.css" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -48,8 +287,8 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python_generation/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="42" column="14" lean-forward="false" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+            <state relative-caret-position="396">
+              <caret line="37" column="26" lean-forward="false" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
               <folding>
                 <element signature="e#0#316#1" expanded="true" />
               </folding>
@@ -61,7 +300,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="466">
-              <caret line="109" column="4" lean-forward="true" selection-start-line="109" selection-start-column="4" selection-end-line="109" selection-end-column="4" />
+              <caret line="109" column="4" lean-forward="false" selection-start-line="109" selection-start-column="4" selection-end-line="109" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -110,8 +349,18 @@
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python_generation/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+            <state relative-caret-position="264">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -149,8 +398,8 @@
         <option value="$PROJECT_DIR$/polls/models.py" />
         <option value="$PROJECT_DIR$/polls/admin.py" />
         <option value="$PROJECT_DIR$/templates/admin/base_site.html" />
-        <option value="$PROJECT_DIR$/python_generation/urls.py" />
         <option value="$PROJECT_DIR$/python_generation/settings.py" />
+        <option value="$PROJECT_DIR$/python_generation/urls.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
@@ -198,24 +447,18 @@
             <path>
               <item name="python_generation" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_generation" type="462c0819:PsiDirectoryNode" />
-              <item name="python_generation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_generation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_generation" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_generation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_generation" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_generation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_generation" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="django-polls" type="462c0819:PsiDirectoryNode" />
               <item name="polls" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_generation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_generation" type="462c0819:PsiDirectoryNode" />
+              <item name="python_generation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_generation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_generation" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_generation" type="b2602c69:ProjectViewProjectNode" />
@@ -254,12 +497,13 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\docker\html\python_generation\fun_polls" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\docker\html\python_generation\static" />
       <recent name="D:\docker\html\python_generation\django-polls" />
       <recent name="D:\docker\html\python_generation\polls" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\docker\html\python_generation\fun_polls" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -316,10 +560,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1924" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25843307" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25843307" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -424,6 +667,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -438,6 +682,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="363">
           <caret line="11" column="39" lean-forward="false" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -486,14 +731,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_generation/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/django-polls/setup.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -504,18 +741,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/python_generation/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="42" column="14" lean-forward="false" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+        <state relative-caret-position="396">
+          <caret line="37" column="26" lean-forward="false" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
           <folding>
             <element signature="e#0#316#1" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/python_generation/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pip-selfcheck.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="466">
-          <caret line="109" column="4" lean-forward="true" selection-start-line="109" selection-start-column="4" selection-end-line="109" selection-end-column="4" />
+          <caret line="109" column="4" lean-forward="false" selection-start-line="109" selection-start-column="4" selection-end-line="109" selection-end-column="4" />
           <folding />
         </state>
       </provider>
